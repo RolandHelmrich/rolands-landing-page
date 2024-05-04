@@ -19,7 +19,7 @@ const styles = {
     marginY: "sm:my-16 my-6",
   };
 
-  const _styles = {
+  const _styles_2 = {
     boxWidth: "xl:max-w-[1280px] w-full",
   
     heading1: "inline-block font-librefranklin font-semibold ss:text[72px] text-[52px] ss:leading-[100px] leading-[75px] bg-gradient-to-r from-yellow-200 to-yellow-500 bg-clip-text text-transparent",
